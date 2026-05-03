@@ -16,7 +16,7 @@ public class App {
 
         // Se animan a crear un metodo que pregunte si la persona puede subirse a un
         // juego de circo?
-        // Tiendo que tener entre 170cm y 200cm para poder subirse.
+        // Pidiendo tener entre 170cm y 200cm para poder subirse.
     }
 
 }
